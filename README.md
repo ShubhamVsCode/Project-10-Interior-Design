@@ -6,7 +6,7 @@ Here's the Live Deployed Website ![Project 10](https://img.shields.io/badge/Proj
 
 ## [DEPLOYED WEBSITE LINK](https://interiordesignspage.netlify.app/)
 
-![Completed Website](./readmeImages/completedScreenshot.jpg)
+![Completed Website](./readmeImages/completedScreenshot.png)
 
 ## What I learned from this Project?
 
